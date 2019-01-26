@@ -20,6 +20,8 @@ import java.util.Scanner;
 public class Assign1 {
 
 	public static void main(String[] args) {
+		
+		//final String output = "Enter\n1 to add resources\n2 to display overdue items";
 
 		int in = 0;
 		Scanner input = new Scanner(System.in);
